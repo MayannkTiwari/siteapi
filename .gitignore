@@ -1,0 +1,12 @@
+# secrets
+.env
+
+# local data and cache
+siteapi.db
+__pycache__/
+*.pyc
+
+# editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
